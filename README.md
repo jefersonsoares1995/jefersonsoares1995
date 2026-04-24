@@ -1,66 +1,16 @@
-<!-- HEADER BANNER SVG -->
 <div align="center">
 
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0F1923;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00FF99;stop-opacity:0" />
-      <stop offset="30%" style="stop-color:#00FF99;stop-opacity:1" />
-      <stop offset="70%" style="stop-color:#00BFFF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00BFFF;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00FF99" />
-      <stop offset="100%" style="stop-color:#00BFFF" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="900" height="200" fill="url(#bgGrad)" rx="12"/>
-  <g opacity="0.06" stroke="#00FF99" stroke-width="0.5">
-    <line x1="0" y1="40" x2="900" y2="40"/><line x1="0" y1="80" x2="900" y2="80"/>
-    <line x1="0" y1="120" x2="900" y2="120"/><line x1="0" y1="160" x2="900" y2="160"/>
-    <line x1="100" y1="0" x2="100" y2="200"/><line x1="200" y1="0" x2="200" y2="200"/>
-    <line x1="300" y1="0" x2="300" y2="200"/><line x1="400" y1="0" x2="400" y2="200"/>
-    <line x1="500" y1="0" x2="500" y2="200"/><line x1="600" y1="0" x2="600" y2="200"/>
-    <line x1="700" y1="0" x2="700" y2="200"/><line x1="800" y1="0" x2="800" y2="200"/>
-  </g>
-  <g stroke="#00FF99" stroke-width="1.5" fill="none" opacity="0.7">
-    <path d="M 20 20 L 20 50 M 20 20 L 50 20"/>
-    <path d="M 880 20 L 880 50 M 880 20 L 850 20"/>
-    <path d="M 20 180 L 20 150 M 20 180 L 50 180"/>
-    <path d="M 880 180 L 880 150 M 880 180 L 850 180"/>
-  </g>
-  <g fill="#00FF99" opacity="0.5">
-    <circle cx="70" cy="100" r="1.5"/><circle cx="80" cy="90" r="1"/>
-    <circle cx="80" cy="110" r="1"/><circle cx="90" cy="100" r="2"/>
-  </g>
-  <text x="450" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#00FF99" opacity="0.8" letter-spacing="6">JEFERSON SOARES</text>
-  <text x="450" y="135" text-anchor="middle" font-family="Georgia, serif" font-size="32" font-weight="bold" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="1">Automation &amp; AI Manager</text>
-  <line x1="150" y1="155" x2="750" y2="155" stroke="url(#lineGrad)" stroke-width="1"/>
-  <text x="450" y="175" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#8892B0" letter-spacing="3">NO-CODE · LOW-CODE · GENERATIVE AI · PRODUCT MANAGEMENT</text>
-  <g fill="#00BFFF" opacity="0.5">
-    <circle cx="810" cy="100" r="1.5"/><circle cx="820" cy="90" r="1"/>
-    <circle cx="820" cy="110" r="1"/><circle cx="830" cy="100" r="2"/>
-  </g>
-</svg>
+<!-- BANNER -->
+<img src="https://raw.githubusercontent.com/jefersonsoares1995/jefersonsoares1995/main/assets/banner.png" />
+
+<br><br>
 
 </div>
 
 <div align="center">
 <br>
 
-[![Status](https://img.shields.io/badge/●_DISPONÍVEL-Projetos_&_Colaborações-00FF99?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/jeferson-soaresdev/)
+[![Status](https://img.shields.io/badge/●_DISPONÍVEL-Projetos_&_Colaborações-006742?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/jeferson-soaresdev/)
 &nbsp;
 [![Empresa](https://img.shields.io/badge/🏢-Gestor_de_Automação-30363d?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/jeferson-soaresdev/)
 &nbsp;
